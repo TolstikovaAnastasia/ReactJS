@@ -1,0 +1,8 @@
+.Message {
+    width: 150px;
+    text-align: center;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 4px;
+    background-color: rgb(231, 231, 241);
+}
