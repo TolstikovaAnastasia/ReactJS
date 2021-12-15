@@ -3,10 +3,10 @@ import { Message } from './components/Message/Message';
 import './App.css';
 
 function App() {
-
+  
   return (
     <div className='App'>
-      <Message />
+      <Message text='Hello, my friend!' />
     </div>
   );
 };
