@@ -1,0 +1,9 @@
+.sendInput {
+    border: 1px solid black;
+    border-radius: 2px;
+    padding: 5px;
+}
+
+.sendBtn {
+    padding: 5px 15px;
+}
