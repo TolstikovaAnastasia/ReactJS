@@ -1,0 +1,10 @@
+.messageForm {
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+}
+
+.messageList {
+    list-style-type: none;
+    align-self: end;
+}
