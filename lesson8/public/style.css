@@ -1,0 +1,81 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+}
+
+.page {
+    max-width: 1280px;
+    font-family: Inter;
+    margin: 16px;
+    display: flex;
+}
+
+.topBar {
+    height: 152px;
+}
+
+.searchText {
+    margin-left: 8px;
+    margin-bottom: 18px;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    color: #050510;
+}
+
+.searchForm {
+    width: 1248px;
+    background-color: #F7F7F8;
+    border: 1px solid #C3C3C6;
+    border-radius: 16px;
+    color: #C3C3C6;
+}
+
+.searchInput {
+    width: 1207px;
+    flex-direction: column;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 44px;
+    align-items: flex-start;
+    background: url(img/search.svg) no-repeat;
+    background-position: left 14px top 7px;
+    border: none;
+}
+
+.buttonFilter {
+    border: none;
+    background-color: #F7F7F8;
+}
+
+.department {
+    margin-top: 22px;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 20px;
+    color: #97979B;
+}
+
+.depEmployees {
+    margin-right: 24px;
+}
+
+.depEmployees:first-of-type {
+    margin-left: 12px;
+}
+
+.depEmployees:last-of-type {
+    margin-right: 0;
+}
+
+.depEmployees:hover {
+    color: #050510;
+    border-bottom: 1px solid #6534FF;
+}
+
+.lineTop {
+    margin-top: 8px;
+    border: 1px solid #C3C3C6;
+    width: 1280px;
+}
