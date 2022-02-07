@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`albumsReducer tests should handle GET_ALBUMS_REQUEST 1`] = `
+Object {
+  "request": Object {
+    "error": "",
+    "status": 1,
+  },
+}
+`;
